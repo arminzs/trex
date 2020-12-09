@@ -20,7 +20,7 @@ function preload(){
 }
 
 function setup() {
-  createCanvas(300, 600);
+  createCanvas(1300, 600);
   
   //creating background
   background = createSprite(0,0,600,600);
